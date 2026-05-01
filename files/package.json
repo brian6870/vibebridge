@@ -1,0 +1,17 @@
+{
+  "name": "vibebridge-server",
+  "version": "13.0.0",
+  "description": "VibeBridge standalone terminal server — no VS Code required",
+  "main": "server.js",
+  "bin": {
+    "vibebridge": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node server.js --auto-approve"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
