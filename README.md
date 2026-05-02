@@ -27,16 +27,9 @@ VibeBridge enables a real-time agentic coding workflow by:
 
 Supported chat domains include (but are not limited to):
 
-- `chat.openai.com`
-- `*.chatgpt.com`
-- `*.claude.ai`
+
 - `chat.deepseek.com`
-- `*.gemini.google.com`
-- `*.qwen.ai`
-- `*.tongyi.aliyun.com`
-- `*.perplexity.ai`
-- `*.cohere.com`
-- `*.mistral.ai`
+
 
 ## Requirements
 
